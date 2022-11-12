@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quantum | About</title>
+    <link rel="stylesheet" href="about.css">
+    <script src="https://kit.fontawesome.com/62aa00fe13.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="navbar">
+        <div class="logo">
+        </div>
+        <nav>
+        <ul>
+            <li><ab class="btnab" href="">About</ab></li>
+            <li><a class="btn" href="products.html">Products</a></li>
+            <li><a class="btn" href="index.html">Home</a></li>
+            <li><a class="btn" href="contact.html">Contact</a></li>
+            <li><a class="btn" href="account.html">Account </a></li>
+        </ul>
+        </nav>
+        <article>
+            <div class="function">
+                <h1>How it works</h1>
+                <p>If you are interested in some of our products, follow this steps to complete your purchase.</p>
+                <p>First check all our products, when you take a desicion join our Discord to continue whit your</p>
+                <p>product purchase, if you need help also you can join our Discord to contact a staff member.</p>
+                <p>You are interested in another kind of development services? Contact us via Discord.</p>
+            </div>
+        </article>
+        <footer>
+            <h1>How purchases works</h1>
+            <p>First select your product, if you want another kind of product or custom product you can contact</p>
+            <p>us via Discord or Email. Before you have selected your product or you decide for a custom product</p>
+            <p>join our Discord so we can continue with you purchase.</p>
+        </footer>
+    </body>
+</html>

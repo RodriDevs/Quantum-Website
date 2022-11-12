@@ -1,0 +1,23 @@
+0000000000000000000000000000000000000000 c1438840eb0f9ea13072dae58e2b21618a519f01 rodri nube <rodrigonuberuiz@gmail.com> 1667159654 -0600	commit (initial): archivos subidos
+c1438840eb0f9ea13072dae58e2b21618a519f01 c1438840eb0f9ea13072dae58e2b21618a519f01 rodri nube <rodrigonuberuiz@gmail.com> 1667159744 -0600	Branch: renamed refs/heads/master to refs/heads/main
+c1438840eb0f9ea13072dae58e2b21618a519f01 b1250e88dce72014753ca577a0a47aecd9262199 rodri nube <rodrigonuberuiz@gmail.com> 1667160096 -0600	commit: new .gitignore & home.html
+b1250e88dce72014753ca577a0a47aecd9262199 76611e4a69657f3f5b26ed02e4355b410e23f8cf rodri nube <rodrigonuberuiz@gmail.com> 1667163324 -0600	commit: home page remove (trash)
+76611e4a69657f3f5b26ed02e4355b410e23f8cf 1519bcbeb596a44713205e01cfceb84411182776 rodri nube <rodrigonuberuiz@gmail.com> 1667169530 -0600	merge b: Fast-forward
+1519bcbeb596a44713205e01cfceb84411182776 8a3262ea393999d6fd2fbc79dd4ce783575ad0d8 rodri nube <rodrigonuberuiz@gmail.com> 1667181166 -0600	merge b: Fast-forward
+8a3262ea393999d6fd2fbc79dd4ce783575ad0d8 e2fcb45c680da421981fd2cf2e0cef45e7da9295 rodri nube <rodrigonuberuiz@gmail.com> 1667181425 -0600	pull origin: Merge made by the 'ort' strategy.
+e2fcb45c680da421981fd2cf2e0cef45e7da9295 79435db8c80057f15b31e67313e1bad5ce53235f rodri nube <rodrigonuberuiz@gmail.com> 1667182927 -0600	merge b: Merge made by the 'ort' strategy.
+79435db8c80057f15b31e67313e1bad5ce53235f 2325195bd4d4f8727bf5be8caf3f3ae82b6f0bc0 rodri nube <rodrigonuberuiz@gmail.com> 1667186383 -0600	commit: add title
+2325195bd4d4f8727bf5be8caf3f3ae82b6f0bc0 f66a936629beda3f8e0d91299605182e2e5fc19f rodri nube <rodrigonuberuiz@gmail.com> 1667234968 -0600	commit: added footer socials & rework
+f66a936629beda3f8e0d91299605182e2e5fc19f d8e5535ab3a8cb8dd6f78732368ed0279b6743fd rodri nube <rodrigonuberuiz@gmail.com> 1667254871 -0600	commit (merge): Merge branch 'b'
+d8e5535ab3a8cb8dd6f78732368ed0279b6743fd eadef73a7d884c14274dee24303b0d3967947bba rodri nube <rodrigonuberuiz@gmail.com> 1667255146 -0600	commit: fix bug
+eadef73a7d884c14274dee24303b0d3967947bba b386dc87fa27fb7a25bee366639abc2a8bd41cc5 rodri nube <rodrigonuberuiz@gmail.com> 1667255306 -0600	commit: fixed buttons
+b386dc87fa27fb7a25bee366639abc2a8bd41cc5 a174373346810fcde7cabacb5b0d5d74a71d8ab6 rodri nube <rodrigonuberuiz@gmail.com> 1667266671 -0600	merge b: Fast-forward
+a174373346810fcde7cabacb5b0d5d74a71d8ab6 32a8977fb1603e0efd0762f1045a7176927a1bce rodri nube <rodrigonuberuiz@gmail.com> 1667267293 -0600	commit: code optimization & rework
+32a8977fb1603e0efd0762f1045a7176927a1bce 8cc5efa9569707c62ab475760dbcec9ac43769f5 rodri nube <rodrigonuberuiz@gmail.com> 1667267588 -0600	merge b: Fast-forward
+8cc5efa9569707c62ab475760dbcec9ac43769f5 506846f85e92d1a47cdf83dba7aae05686cd0db0 rodri nube <rodrigonuberuiz@gmail.com> 1667269113 -0600	merge b: Fast-forward
+506846f85e92d1a47cdf83dba7aae05686cd0db0 c7611c1704958129f6027c9a406e1fd61aaa1636 rodri nube <rodrigonuberuiz@gmail.com> 1667269432 -0600	merge b: Fast-forward
+c7611c1704958129f6027c9a406e1fd61aaa1636 af2edd6dfd8d3361a22fa5f781832b12f497ddc6 rodri nube <rodrigonuberuiz@gmail.com> 1667269641 -0600	commit: fixed p position
+af2edd6dfd8d3361a22fa5f781832b12f497ddc6 f9c3d3994796e59f5b56a1ecdf6183070c34ed29 rodri nube <rodrigonuberuiz@gmail.com> 1667326924 -0600	commit: new logo
+f9c3d3994796e59f5b56a1ecdf6183070c34ed29 885fc1b51ec0779bd1478c672799e2057e8a0ded rodri nube <rodrigonuberuiz@gmail.com> 1667328618 -0600	commit: new logo
+885fc1b51ec0779bd1478c672799e2057e8a0ded eacdbc7aec6f7aa063210fa441d1be9b61c98f89 rodri nube <rodrigonuberuiz@gmail.com> 1668210428 -0600	commit: fix account text & minor bugs
+eacdbc7aec6f7aa063210fa441d1be9b61c98f89 54559da3805968cef5690a6b9b6c5f7cce25f3fe rodri nube <rodrigonuberuiz@gmail.com> 1668210610 -0600	commit: account section add
